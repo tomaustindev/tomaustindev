@@ -1,4 +1,8 @@
-## Welcome to my Github.
+<div align="center">
+    <h1>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tektur&size=24&pause=1000&center=true&vCenter=true&width=435&lines=tom-austin-dev" alt="Typing SVG" /></a>
+    </h1>
+</div>
 
 <!--
 **tom-austin-dev/tom-austin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
