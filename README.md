@@ -1,8 +1,7 @@
-<div align="center">
-    <h1>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tektur&size=24&pause=1000&center=true&vCenter=true&width=435&lines=tom-austin-dev" alt="Typing SVG" /></a>
-    </h1>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&size=64&duration=2000&pause=2000&vCenter=true&width=488&height=96&lines=tom-austin-dev)](https://git.io/typing-svg)
+
+# About
+I am a video games programmer with a particular interest in the _design_ and _construction_ of **game engines**. These endeavours are powered by a _proficiency_ and _passion_ for the **C++** programming language.
 
 <!--
 **tom-austin-dev/tom-austin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
