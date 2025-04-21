@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&size=64&duration=2000&pause=2000&vCenter=true&width=488&height=96&lines=tom-austin-dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&size=64&duration=2000&pause=2000&color=A3E069&vCenter=true&width=488&height=96&lines=tom-austin-dev)](https://git.io/typing-svg)
 
 # About
 I am a video games programmer with a particular interest in the _design_ and _construction_ of **game engines**. These endeavours are powered by a _proficiency_ and _passion_ for the **C++** programming language.
