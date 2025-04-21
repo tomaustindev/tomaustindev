@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&size=64&duration=2000&pause=2000&color=A3E069&vCenter=true&width=488&height=96&lines=tom-austin-dev)](https://git.io/typing-svg)
 
 # About
-I am a video games programmer with a particular interest in the _design_ and _construction_ of **game engines**. These endeavours are powered by a _proficiency_ and _passion_ for the **C++** programming language.
+I am a video games programmer with a particular interest in the _design_ and _implementation_ of **game engines**. These endeavours are powered by a _proficiency_ and _passion_ for the **C++** programming language.
 
 # Proficiency
 
@@ -13,6 +13,11 @@ C++ is my go to lanuage. I am familar and comfortable with the Standard Template
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 While I do not use C as much as C++, I am familiar with its benefits. It's fast, lightweight and robust. Furthermore, I am very proficient in the language, capable of solving almost any problem with the C standard library.
+
+## Tools
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+I depend on modern CMake for the majority of my builds. It's quick to write, easy to use and perfectly abstracted from its more hands-on cousin 'Make'. My competence with this tool stems from a long-lasting bond (it's yet to let me down).
 
 <!--
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
